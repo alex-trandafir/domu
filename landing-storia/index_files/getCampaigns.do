@@ -1,0 +1,1 @@
+adapt_dataRequest_sati_admp.campaignCallback({"reference":false,"evId":"20f5d9f6-6314-46f9-8cb8-1b634d1b4fef","campaignIds":{}})
